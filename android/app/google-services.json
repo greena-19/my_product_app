@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861797096739",
+    "project_id": "greena-product-manager-2026",
+    "storage_bucket": "greena-product-manager-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861797096739:android:380718ce883c2988304096",
+        "android_client_info": {
+          "package_name": "com.example.my_product_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI2hJEw-7RHdc4Jm1_BC3IBtM3sCyuGNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
